@@ -34,7 +34,7 @@ To use Sprinkle Cursor on your website, follow these steps:
 
 2. Include the required CSS and JavaScript files in your HTML file:
 
-```html
+```HTML
 <!-- Add the stylesheet -->
 <link rel="stylesheet" href="path/to/sprinkle-cursor.css">
 
@@ -44,7 +44,7 @@ To use Sprinkle Cursor on your website, follow these steps:
 
 3. Create a container element (e.g., a `<div>`) on your web page where the sprinkle effect will be applied:
 
-```html
+```HTML
 <div class="sprinkle-container"></div>
 ```
 
@@ -83,15 +83,22 @@ If you want to contribute to this project, you're welcome to submit pull request
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you can use it freely in personal and commercial projects.
+Copyright (c) 2023 by Mohammad Abdul Gafoor (https://codepen.io/abdul-1432/pen/KKrrQmB)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 ## Acknowledgments
 
-- The idea for this project was inspired by [example-website](https://example.com/).
+- The idea for this project was inspired by [example-website](https://codepen.io/abdul-1432/pen/KKrrQmB).
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, you can reach us at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com).
+If you have any questions, or suggestions, or just want to say hi, you can reach us at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com).
 
 ---
 
