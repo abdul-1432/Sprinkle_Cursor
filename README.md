@@ -6,7 +6,7 @@ Sprinkle Cursor is a fun and interactive cursor effect created using HTML, CSS, 
 
 ## Demo
 
-Check out the live demo of Sprinkle Cursor [here](https://example.com/sprinkle-cursor-demo).
+Check out the live demo of Sprinkle Cursor [here](https://codepen.io/abdul-1432/pen/KKrrQmB).
 
 ## Features
 
