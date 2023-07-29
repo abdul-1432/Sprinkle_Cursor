@@ -8,6 +8,7 @@
 
 ![4](https://github.com/abdul-1432/Sprinkle_Cursor/assets/124916666/940c6650-5b57-472a-93e6-a50d63de75a2)
 
+![5](https://github.com/abdul-1432/Sprinkle_Cursor/assets/124916666/e174eb8d-d71a-44a6-a110-e0153fa47235)
 
 
 
