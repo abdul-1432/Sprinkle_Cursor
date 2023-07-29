@@ -6,6 +6,7 @@
 
 ![3](https://github.com/abdul-1432/Sprinkle_Cursor/assets/124916666/ebd98264-e742-44f9-adfd-5d5592893ae2)
 
+![4](https://github.com/abdul-1432/Sprinkle_Cursor/assets/124916666/940c6650-5b57-472a-93e6-a50d63de75a2)
 
 
 
