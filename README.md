@@ -1,6 +1,12 @@
 # Sprinkle Cursor
 
-![Sprinkle Cursor](sprinkle-cursor-demo.gif)
+![1](https://github.com/abdul-1432/Sprinkle_Cursor/assets/124916666/ac97f1f9-f3dd-4597-a062-5d3e602b87b0)
+
+
+
+
+
+
 
 Sprinkle Cursor is a fun and interactive cursor effect created using HTML, CSS, and JavaScript. When users move their mouse cursor on the web page, it leaves behind a trail of colorful sprinkles, adding a delightful touch to the user experience.
 
