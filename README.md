@@ -20,7 +20,7 @@ Check out the live demo of Sprinkle Cursor [here](https://codepen.io/abdul-1432/
 
 To use Sprinkle Cursor on your website, follow these steps:
 
-1. Download the project files from the [GitHub repository](https://github.com/yourusername/sprinkle-cursor).
+1. Download the project files from the [GitHub repository](https://github.com/abdul-1432/Sprinkle_Cursor).
 
 2. Include the required CSS and JavaScript files in your HTML file:
 
@@ -69,7 +69,7 @@ Edit the `sprinkle-cursor.css` file to modify the appearance of the sprinkles.
 
 ## Contributing
 
-If you want to contribute to this project, you're welcome to submit pull requests or open issues in the [GitHub repository](https://github.com/yourusername/sprinkle-cursor). We appreciate your help in making Sprinkle Cursor even better!
+If you want to contribute to this project, you're welcome to submit pull requests or open issues in the [GitHub repository](https://github.com/abdul-1432/Sprinkle_Cursor). We appreciate your help in making Sprinkle Cursor even better!
 
 ## License
 
@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE), which means you can u
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, you can reach us at [email@example.com](mailto:email@example.com).
+If you have any questions, suggestions, or just want to say hi, you can reach us at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com).
 
 ---
 
