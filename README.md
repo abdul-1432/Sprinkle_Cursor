@@ -94,7 +94,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Acknowledgments
 
-- The idea for this project was inspired by [example-website](https://codepen.io/abdul-1432/pen/KKrrQmB).
+- The idea for this project was inspired by [Codepe](https://codepen.io/abdul-1432/pen/KKrrQmB).
 
 ## Contact
 
